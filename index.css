@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body{
+    scroll-behavior: smooth;
+    /* background-color:linear-gradient(154.1deg, #1280BD -6.16%, rgba(56, 115, 148, 0) 128.92%); */
+}
+.toogle{
+    background-color:linear-gradient(154.1deg, #1280BD -6.16%, rgba(56, 115, 148, 0) 128.92%);
+}
